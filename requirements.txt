@@ -1,0 +1,9 @@
+pandas==2.3.3
+numpy==2.4.6
+matplotlib==3.10.9
+scipy==1.17.1
+scikit-learn==1.9.0
+pyvinecopulib==0.7.1
+openturns==1.27
+Pillow==12.2.0
+git+https://github.com/syrte/ndtest@cac1ac875b1bfdbd406004c1d651803e66fa8c6e
